@@ -26,14 +26,19 @@ const zelalem = {
 };
 ```
 
-### My working toolkit
+### How I build
 
-| Layer | Tools I use in my projects |
-| :--- | :--- |
-| **Interfaces** | React · Next.js · React Native · Expo · Tailwind CSS |
-| **APIs & data** | TypeScript · Python · NestJS · PostgreSQL · Supabase · Redis |
-| **AI & automation** | Gemini · Anthropic SDK · n8n · GitHub Actions |
-| **Delivery** | Google Cloud Run · Firestore · Docker · Vercel |
+<p align="center">
+  <img src="./assets/build-loop.svg" alt="Curiosity in. Useful software out. Question → Simplify → Build → Refine → Repeat." width="100%" />
+</p>
+
+**Start with the friction.** Find the step that feels harder than it should, then ask why.
+
+**Make the next step obvious.** A clear interface and a thoughtful API are both ways of helping someone move forward.
+
+**Keep learning from the result.** Ship something useful, listen, and make the next version better.
+
+> Somewhere between “what if?” and “it works” is where I like to build.
 
 <br />
 
