@@ -44,7 +44,7 @@ const zelalem = {
 
 <p align="center">
   <strong>Good software makes the next step feel simple.</strong><br />
-  <sub>Thanks for stopping by. Pick a project, explore the code, and say hello in an issue or discussion where available.</sub>
+  <sub>Thanks for stopping by.</sub>
 </p>
 
 <p align="center">
