@@ -2,13 +2,13 @@
   <img src="./assets/header.svg" alt="Zelalem Hailekirstos — Senior Software Engineer in Addis Ababa, Ethiopia. Full-stack products, practical AI, and thoughtful automation." width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/zolateklu?tab=repositories"><strong>Explore my projects ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/zolateklu/dependency-steward">Latest build</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/zolateklu/Property-Management-AI-System">AI in practice</a>
-</p>
+</p> -->
 
 <br />
 
